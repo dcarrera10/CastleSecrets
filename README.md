@@ -1,4 +1,4 @@
-# Castlee Secrets
+# Castle Secrets
 
 A narrative singleplayer Quake level for one player.
 
